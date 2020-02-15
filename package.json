@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Rezende123/filmes-node/issues"
   },
-  "homepage": "https://github.com/Rezende123/filmes-node#readme"
+  "homepage": "https://github.com/Rezende123/filmes-node#readme",
+  "dependencies": {
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "request": "^2.81.0"
+  }
 }
